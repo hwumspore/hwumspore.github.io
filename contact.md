@@ -3,10 +3,9 @@ title: Contact
 excerpt: "Contact or reach us if you have any enquiries."
 ---
 
-### Contacts
 
 If you have further questions, please contact Dr. John See ([J.See@hw.ac.uk](mailto:J.See@hw.ac.uk)).
 
-### Our location
+#### Our location
 
 {% include map.html id="142FHYrF_FrgWLkwOONiIy8g7BLAUvdnP" title="HWUM Campus Location" %}
