@@ -3,7 +3,7 @@ title: About SPOre
 feature_text: |
   ## HWUM SPOre
   Heriot-Watt University Malaysia - **S**tudent **P**roject **O**ppo**r**tuniti**e**s
-feature_image: "https://images.pexels.com/photos/1068876/pexels-photo-1068876.jpeg"
+feature_image: "/assets/imgs/mushroom.jpeg"
 excerpt: "SPOre is a HWUM MACS initiative to provide undergraduate computing and data science students an early opportunity to experience project work and brew new innovative ideas, under the guidance of a supervisor or research group. The SPOre programme runs through the summer break (June to August), where students will acquire a spectrum of skills that supplements their existing knowledge before undertaking larger projects (like final year project) or joining internship stints. SPOre is modelled after the popularly known UROP programmes found in many leading universities, with the exception that it is open to both research-oriented and development-oriented projects."
 ---
 

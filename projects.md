@@ -3,7 +3,7 @@ title: Projects
 feature_text: |
   ## HWUM SPOre
   Projects for Summer 2022
-feature_image: "https://images.pexels.com/photos/33350/forest-fly-agaric-fog-moss-fliegenpilz.jpg"
+feature_image: "/assets/imgs/forest-fly.jpg"
 excerpt: "  This page contains a list of SPOre projects on offer in the current summer term break."
 ---
 
@@ -20,7 +20,7 @@ _Available. Team of 2 students_
 
 #### Recommender System
 
-- Supervisor: Dr. Ian Tan\
+- Supervisor: Dr. Ian Tan
 - Domain: Data Science
 
 _Available. 1 student_
