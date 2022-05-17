@@ -1,6 +1,8 @@
 ---
 title: Projects
-feature_text: SPOre Projects for Summer 2022
+feature_text: |
+  ## HWUM SPOre
+  Projects for Summer 2022
 feature_image: "https://images.pexels.com/photos/33350/forest-fly-agaric-fog-moss-fliegenpilz.jpg"
 excerpt: "  This page contains a list of SPOre projects on offer in the current summer term break."
 ---
