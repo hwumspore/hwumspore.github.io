@@ -1,144 +1,73 @@
 ---
-title: Elements
+title: Projects
 feature_text: |
-  A demo of Markdown and HTML includes
-feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "A demo of Markdown and HTML includes"
+  This page contains a list of SPOre projects on offer in the current summer term break.
+feature_image: "https://images.pexels.com/photos/1643401/pexels-photo-1643401.jpeg"
+excerpt: "SPOre Projects for Summer 2022"
 aside: true
 ---
 
-# Heading 1
+Here's the list of SPOre projects on offer during the current 2022 summer break (in no particular order).
 
-## Heading 2
+### Programmable Drone Control
 
-### Heading 3
+Supervisor: Dr. John See
+Domain: Artificial Intelligence
 
-#### Heading 4
+_Available. Team of 2 students_
 
-##### Heading 5
+> Drone flying is becoming very popular both as a hobby and for more serious work such as aerial monitoring. This project aims to explore programmable drone control to automatically perform a series of movements. This can be achieved by gesture control or marker detection or a combination of both. What can these programmed drones be used for? The sky's the limit.
 
-###### Heading 6
+### Recommender System
 
-<small>A small element</small>
+Supervisor: Dr. Ian Tan
+Domain: Data Science
 
-[A link](https://david.darn.es "A link")
+_Available. 1 student_
 
-Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
+> Joke recommendation from the Jester dataset using the Python Surprise package methods (and beyond).  The project will start with the understanding of matrix factorisation, and an opportunity to extend from there.
 
-Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
+### Palm Kernel Multi-Class Classifier
 
-* An item
-* An item
-* An item
-* An item
-* An item
+Supervisor: Dr. Ian Tan
+Domain: Artificial Intelligence
 
-1. Item one
-2. Item two
-3. Item three
-4. Item four
-5. Item five
+_Available. 2 students_
 
-> A simple blockquote
+> Most image classifiers on palm kernel fresh fruit bunch (FFB) are binary classifiers with a few past work on 3 class classifier.  The actual number of classifications for FFB are beyond 3 classes.  The project here requires manual dataset preparation (label and archjve) from an actual palm oil mill, and to use existing pre-trained image classifier models for multi-class classification.
 
-Some HTML...
+### Opinion Mining from Short Text for Online Products
 
-``` html
-<blockquote cite="http://www.imdb.com/title/tt0284978/quotes/qt1375101">
-  <p>You planning a vacation, Mr. Sullivan?</p>
-  <footer>
-    <a href="http://www.imdb.com/title/tt0284978/quotes/qt1375101">Sunways Security Guard</a>
-  </footer>
-</blockquote>
-```
+Supervisor: Dr. Ian Tan
+Domain: Data Science
 
-...CSS...
+_Available. 2 students_
 
-``` css
-blockquote {
-  text-align: center;
-  font-weight: bold;
-}
-blockquote footer {
-  font-size: .8rem;
-}
-```
+> Customers may leave ratings and short comments for the products they have purchased.  Using the large Amazon product dataset with ratings and comments, this project is to either train a model for opinion (sentiment), and/or to use an existing library such as the Python (or R) Vader package.
 
-...and JavaScript
+### Visual Traveller
 
-``` js
-const blockquote = document.querySelector("blockquote")
-const bolden = (keyString, string) =>
-  string.replace(new RegExp(keyString, 'g'), '<strong>'+keyString+'</strong>')
+Supervisor: Dr. John See
+Domain: Software Development & Data Science
 
-blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
-```
+_Available. 2 students_
 
-`Single line of code`
+> I wonder what's really interesting to see and do in Putrajaya... In this project, try curating interesting photos and videos of a certain vicinity from social media platforms such as Instagram or TikTok and display them in a cool and fun way (on top of a map, using a timeline, and more), suitable for the keen and curious traveller.
 
-## HTML Includes
+### Emojibot
 
-### Contact form
+Supervisor: Dr. John See
+Domain: Artificial Intelligence
 
-{% include site-form.html %}
+_Available. 2 students_
 
-``` html
-{% raw %}{% include site-form.html %}{% endraw %}
-```
+> Most of us use emojis everyday when conversing with others in the virtual world. But can we get computers to "decorate" our text with the right choice of emojis? Can  the computers even respond accordingly with the right type of emoji 😹🔥❤️ ?
 
-### Demo map embed
+### IoT for Agriculture
 
-{% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" title="Coffee shop map" %}
+Supervisor: Dr. Rosalind
+Domain: IoT/Embedded Systems
 
-``` html
-{% raw %}{% include map.html id="XXXXXX" title="Coffee shop map" %}{% endraw %}
-```
+_Available. 2-3 students_
 
-### Button include
-
-{% include button.html text="A button" link="https://david.darn.es" %}
-
-{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}
-
-``` html
-{% raw %}{% include button.html text="A button" link="https://david.darn.es" %}
-{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}{% endraw %}
-```
-
-### Icon include
-
-{% include icon.html id="twitter" title="twitter" %} [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes)
-
-``` html
-{% raw %}{% include icon.html id="twitter" title="twitter" %}
-[{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes){% endraw %}
-```
-
-### Video include
-
-{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}
-
-``` html
-{% raw %}{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}{% endraw %}
-```
-
-
-### Image includes
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}
-
-``` html
-{% raw %}{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
-
-{% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}{% endraw %}
-```
+> IoT based systems make use of sensors to receive feedback from the environment. This project prototypes a system that uses various IoT sensors to collect data such as moisture levels in the soil, temperature, etc. which in turn, allows the system to better understand the utilisation of resources (water, electricity). The collected data can also be archived for future reference and decision-making.
