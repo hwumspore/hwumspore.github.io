@@ -11,9 +11,8 @@ Here's the list of SPOre projects on offer during the current 2022 summer break 
 
 #### Programmable Drone Control
 
-Supervisor: Dr. John See
-
-Domain: Artificial Intelligence
+- Supervisor: Dr. John See
+- Domain: Artificial Intelligence
 
 _Available. Team of 2 students_
 
@@ -21,9 +20,8 @@ _Available. Team of 2 students_
 
 #### Recommender System
 
-Supervisor: Dr. Ian Tan
-
-Domain: Data Science
+- Supervisor: Dr. Ian Tan\
+- Domain: Data Science
 
 _Available. 1 student_
 
@@ -31,9 +29,8 @@ _Available. 1 student_
 
 #### Palm Kernel Multi-Class Classifier
 
-Supervisor: Dr. Ian Tan
-
-Domain: Artificial Intelligence
+- Supervisor: Dr. Ian Tan
+- Domain: Artificial Intelligence
 
 _Available. 2 students_
 
@@ -41,9 +38,8 @@ _Available. 2 students_
 
 #### Opinion Mining from Short Text for Online Products
 
-Supervisor: Dr. Ian Tan
-
-Domain: Data Science
+- Supervisor: Dr. Ian Tan
+- Domain: Data Science
 
 _Available. 2 students_
 
@@ -51,9 +47,8 @@ _Available. 2 students_
 
 #### Visual Traveller
 
-Supervisor: Dr. John See
-
-Domain: Software Development & Data Science
+- Supervisor: Dr. John See
+- Domain: Software Development & Data Science
 
 _Available. 2 students_
 
@@ -61,9 +56,8 @@ _Available. 2 students_
 
 #### Emojibot
 
-Supervisor: Dr. John See
-
-Domain: Artificial Intelligence
+- Supervisor: Dr. John See
+- Domain: Artificial Intelligence
 
 _Available. 2 students_
 
@@ -71,9 +65,8 @@ _Available. 2 students_
 
 #### IoT for Agriculture
 
-Supervisor: Dr. Rosalind
-
-Domain: IoT/Embedded Systems
+- Supervisor: Dr. Rosalind
+- Domain: IoT/Embedded Systems
 
 _Available. 2-3 students_
 
