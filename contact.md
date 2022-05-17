@@ -1,6 +1,12 @@
 ---
-title: Search
-excerpt: "Search for a page or post you're looking for"
+title: Contact
+excerpt: "Contact or reach us if you have any enquiries."
 ---
 
-{% include site-search.html %}
+### Contacts
+
+If you have further questions, please contact Dr. John See ([J.See@hw.ac.uk](mailto:J.See@hw.ac.uk)).
+
+### Our location
+
+{% include map.html id="142FHYrF_FrgWLkwOONiIy8g7BLAUvdnP" title="HWUM Campus Location" %}
