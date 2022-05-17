@@ -1,10 +1,8 @@
 ---
 title: Projects
-feature_text: |
-  This page contains a list of SPOre projects on offer in the current summer term break.
+feature_text: SPOre Projects for Summer 2022
 feature_image: "https://images.pexels.com/photos/1643401/pexels-photo-1643401.jpeg"
-excerpt: "SPOre Projects for Summer 2022"
-aside: true
+excerpt: "  This page contains a list of SPOre projects on offer in the current summer term break."
 ---
 
 Here's the list of SPOre projects on offer during the current 2022 summer break (in no particular order).
