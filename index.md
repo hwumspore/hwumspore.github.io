@@ -9,7 +9,7 @@ excerpt: "SPOre is a HWUM MACS initiative to provide undergraduate computing and
 
 SPOre is a HWUM MACS initiative to provide undergraduate computing and data science students an early opportunity to experience project work and brew new innovative ideas, under the guidance of a supervisor or research group. The SPOre programme runs through the summer break (June to August), where students will acquire a spectrum of skills that supplements their existing knowledge before undertaking larger projects (like final year project) or joining internship stints.
 
-SPOre is modelled after the popularly known UROP programmes found in [many](http://teaching.eng.cam.ac.uk/content/undergraduate-research-opportunities-programme-urop) [leading](https://www.ntu.edu.sg/mse/admissions/undergraduates/current-students/research-scheme/urop) [universities](https://www.imperial.ac.uk/urop), with the exception that SPOre is open to both research-centric (R) and development-centric (D) projects.
+SPOre is modelled after the popularly known UROP programmes found in [many](http://teaching.eng.cam.ac.uk/content/undergraduate-research-opportunities-programme-urop){:target="_blank"} [leading](https://www.ntu.edu.sg/mse/admissions/undergraduates/current-students/research-scheme/urop){:target="_blank"} [universities](https://www.imperial.ac.uk/urop){:target="_blank"}, with the exception that SPOre is open to both research-centric (R) and development-centric (D) projects.
 
 ### How to join
 
