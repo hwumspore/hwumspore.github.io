@@ -125,10 +125,10 @@ navigation_header:
   url: /
 - title: Projects
   url: /projects/
-- title: Contact
-  url: /contact/
 - title: FAQs
   url: /faqs/
+- title: Contact
+  url: /contact/
 # - title: Blog
 #  url: /blog/
 # - title: Categories
