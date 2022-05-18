@@ -127,6 +127,8 @@ navigation_header:
   url: /projects/
 - title: Contact
   url: /contact/
+- title: FAQs
+  url: /faqs/
 # - title: Blog
 #  url: /blog/
 # - title: Categories
