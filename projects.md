@@ -23,7 +23,7 @@ _Kah Shen Sze & Joel Hue_
 - Supervisor: Dr. Ian Tan
 - Domain: Data Science
 
-`Wei Qing Lee & Win Win Chen`
+_Wei Qing Lee & Win Win Chen_
 
 > Joke recommendation from the Jester dataset using the Python Surprise package methods (and beyond).  The project will start with the understanding of matrix factorisation, and an opportunity to extend from there.
 
@@ -41,9 +41,9 @@ _Available. 2 students_
 - Supervisor: Dr. Ian Tan
 - Domain: Data Science
 
-_2 Groups of 2._
-`Jane Chek & Zi Ying Yee`
-`Jia Hui Lim & Yin Yuan Loh`
+_2 Groups of 2._<br />
+_Jane Chek & Zi Ying Yee_ <br />
+_Jia Hui Lim & Yin Yuan Loh_
 
 > Customers may leave ratings and short comments for the products they have purchased.  Using the large Amazon product dataset with ratings and comments, this project is to either train a model for opinion (sentiment), and/or to use an existing library such as the Python (or R) Vader package.
 
@@ -61,7 +61,7 @@ _Available. 2 students_
 - Supervisor: Dr. John See
 - Domain: Artificial Intelligence
 
-`Bi Qi Fong & Pei Yee Liew`
+_Bi Qi Fong & Pei Yee Liew_
 
 > Most of us use emojis everyday when conversing with others in the virtual world. But can we get computers to "decorate" our text with the right choice of emojis? Can  the computers even respond accordingly with the right type of emoji 😹🔥❤️ ?
 
