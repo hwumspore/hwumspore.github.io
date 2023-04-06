@@ -9,14 +9,13 @@ excerpt: "  This page contains a list of past SPOre projects and current project
 
 Here's the list of SPOre projects completed during the 2022 summer break:
 
-|  Project Title | Students | Supervisor
+|  **Project Title** | **Students** | **Supervisor**
 |-------|------|--------|
 | Programmable Drone Control | Sze Kah Shen, Joel Hue | John See |
 | Recommender System | Lee Wei Qing, Chen Win Win | Ian Tan |
 | Opinion Mining from Short Text for Online Products | Jane Chek Zi Yang, Yee Zi Ying, Lim Jia Hui | Ian Tan |
 | Emojibot | Liew Pei Yee, Fong Bi Qi | John See |
 | IoT for Agriculture | Ong Yun Yi, Loh Yin Yuan, Kwan Weng Thong, Winster Phang | Rosalind |
-
 
 
 #### Palm Kernel Multi-Class Classifier
