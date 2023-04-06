@@ -17,6 +17,7 @@ Here's the list of SPOre projects completed during the 2022 summer break:
 | Emojibot | Liew Pei Yee, Fong Bi Qi | John See |
 | IoT for Agriculture | Ong Yun Yi, Loh Yin Yuan, Kwan Weng Thong, Winster Phang | Rosalind |
 
+--
 
 #### Palm Kernel Multi-Class Classifier
 
