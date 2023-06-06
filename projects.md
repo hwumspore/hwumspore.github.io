@@ -45,7 +45,7 @@ _Available for 2 students_
 
 > Blender, a popular 3D computer graphics software allows for Python scripting to encourage creative coders to create procedural artwork. In other words, Python scripts can be used to animate geometry of 3D objects and models, morph and distort them, and incorporate user interactions. This project explores the fundamental pipeline of creating animated 3D objects via Blender and Python.
 
-#### Animating 3D Objects with Blender and Python
+#### Underwater Image Enhancement
 
 - Supervisor: Dr. John See
 - Domain: Computer Vision, Machine Learning
