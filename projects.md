@@ -7,17 +7,6 @@ feature_image: "/assets/imgs/forest-fly.jpg"
 excerpt: "  This page contains a list of past SPOre projects and current project on offer in the current summer break 2023."
 ---
 
-Here's the list of SPOre projects completed during the 2022 summer break:
-
-|  **Project Title** | **Students** | **Supervisor** |
-|-------|------|--------|
-| Programmable Drone Control | Sze Kah Shen, Joel Hue | John See |
-| Recommender System | Lee Wei Qing, Chen Win Win | Ian Tan |
-| Opinion Mining from Short Text for Online Products | Jane Chek Zi Yang, Yee Zi Ying, Lim Jia Hui | Ian Tan |
-| Emojibot | Liew Pei Yee, Fong Bi Qi | John See |
-| IoT for Agriculture | Ong Yun Yi, Loh Yin Yuan, Kwan Weng Thong, Winster Phang | Rosalind |
-
---
 Here's the list of SPore projects on offer during the **2023 summer break**:
 
 #### Autonomous Drone Piloting
@@ -25,8 +14,7 @@ Here's the list of SPore projects on offer during the **2023 summer break**:
 - Supervisor: Dr. John See
 - Domain: Software/App Development, Artificial Intelligence
 
-_Khoo Zhao Wei_
-_Available for 1 student_
+_Available for 2 students_
 
 > It is now possible to program drones to self-navigate, which in turn leads to many interesting possibilities. This project aims to explore and develop simple autonomous drone piloting, which can be achieved via numerous ways, e.g. voice control, gesture control or marker-based detection, or a combination. One interesting application can be built to demonstrate the drone's navigational capabilities.
 
@@ -62,7 +50,18 @@ _Available for 2 students_
 - Supervisor: Dr. John See
 - Domain: Computer Vision, Machine Learning
 
-_1 collaborating student from Ocean University, China_
-_Available for 1 student_
+_Available for 1 student_ (_+1 collaborating student from Ocean University, China_)
 
 > Image enhancement is a challenge in computer vision based underwater imaging due to the degradation of image quality in the underwater environment. Due to the light scattering and absorption effect in such environments, images often suffer from low visibilities, blurry effects and color variations. This project explores several viable solutions to achieve this task, motivated by the acquisition of newly collected data.
+
+--
+
+Here's the list of SPOre projects completed during the 2022 summer break:
+
+|  **Project Title** | **Students** | **Supervisor** |
+|-------|------|--------|
+| Programmable Drone Control | Sze Kah Shen, Joel Hue | John See |
+| Recommender System | Lee Wei Qing, Chen Win Win | Ian Tan |
+| Opinion Mining from Short Text for Online Products | Jane Chek Zi Yang, Yee Zi Ying, Lim Jia Hui | Ian Tan |
+| Emojibot | Liew Pei Yee, Fong Bi Qi | John See |
+| IoT for Agriculture | Ong Yun Yi, Loh Yin Yuan, Kwan Weng Thong, Winster Phang | Rosalind |
