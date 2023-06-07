@@ -15,13 +15,14 @@ SPOre is modelled after the popularly known UROP programmes found in [many](http
 
 Look at the list of [available projects](/projects/). If anything piques your interest, drop the supervisor an email. Note that most projects are team-based (more than 1 person involved). The supervisor may have multiple applicants for a particular project and could recommend teaming up students, or providing other available options if one is already filled. We will update the project availability on the website as often as we could.
 
-Currently, projects in SPOre are primarily focused with _computing_ at its core, and are designed for CS students. However, these projects (if feasible) are also opened to undergraduate students of other related programmes in HWUM; the project has to be led by a CS student.
+Currently, projects in SPOre are primarily focused with _computing_ at its core, and are designed for CS students. However, these projects (if feasible) are also opened to undergraduate students of other related programmes in HWUM such as Statistical Data Science, whereby the project has to be led by a CS student.
 
 
 ### What we need from you (if you do join)
 
 - Your commitment ❤️
 - To regularly get in touch with your supervisor for 🗣️ and ☕
+- Keep a log 📖 of your 📈 and learnings
 - At the end of the project, do a demo or presentation 👩🏻‍🏫 , and share about it, tweet it, IG it...
 
 Most importantly, enjoy the experience! 😊
