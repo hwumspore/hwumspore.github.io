@@ -20,7 +20,7 @@ Currently, projects in SPOre are primarily focused with _computing_ at its core,
 
 ### What we need from you (if you do join)
 
-- Your commitment ❤️
+- Your commitment ❤️ 
 - To regularly get in touch with your supervisor for 🗣️ and ☕
 - Keep a log 📖 of your 📈 and learnings
 - At the end of the project, do a demo or presentation 👩🏻‍🏫 , and share about it, tweet it, IG it...
