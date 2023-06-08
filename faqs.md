@@ -21,5 +21,8 @@ This depends on the arrangement with your supervisor, with consideration for the
 **The project says only 2 members. Can we have another person joining the project?**
 The supervisor of the project probably had in mind that the project scope is suitable for 2 persons. However, your team can discuss with the supervisor if adding another person to the project is possible - in that case, the project scope could be broadened to include more persons. We would like all students to be actively participating in the project.
 
+**I have some idea of the kind of project I wish to do. But the supervisor that I have contacted does not want to supervise me!**
+There could be many reasons why the supervisor you have contacted may not want to supervise your suggested topic, among which are: mismatch of area or expertise, supervisor may already have many students, time constraints, and more. Do ask the supervisor you have contacted to recommend someone else who could potentially supervise you.
+
 **What are the benefits of joining SPOre?**
 If you have a summer break of 2-3 months to spare, use this as an opportunity to learn new coding or a new domain of knowledge,  learn how to do research, learn to manage projects in a timely manner, learn to work in a team, and more. More importantly, use it as a platform to discover what you really like doing. On top of that, your project could also be a nice addition to your resume!

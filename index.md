@@ -20,7 +20,7 @@ Currently, projects in SPOre are primarily focused with _computing_ at its core,
 
 ### What we need from you (if you do join)
 
-- Your commitment ❤️ 
+- Your commitment ❤️
 - To regularly get in touch with your supervisor for 🗣️ and ☕
 - Keep a log 📖 of your 📈 and learnings
 - At the end of the project, do a demo or presentation 👩🏻‍🏫 , and share about it, tweet it, IG it...
@@ -41,3 +41,14 @@ Have a question? Before you email us, go [here](/faqs/) for a list of frequently
 - **Underwater Image Enhancement** (Supervisor: Dr John See): 1 student
 
 Click [here](/projects/) for more details of each project.
+
+If you have ideas of a project you would like to pursue, you may approach a specific lecturer to propose and discuss further.
+
+## CS Supervisors
+
+_Please add the institution domain to the email user names in parenthesis_
+- Dr. Rosalind Deena Kumari (r.kumari)
+- Dr. Chit Su Mon (c.mon)
+- Dr. Abdullah (a.almasri)
+- Dr. Ian Tan (i.tan)
+- Dr. John See (j.see)
