@@ -42,7 +42,7 @@ Have a question? Before you email us, go [here](/faqs/) for a list of frequently
 
 Click [here](/projects/) for more details of each project.
 
-If you have ideas of a project you would like to pursue, you may approach a specific lecturer to propose and discuss further.
+If you have other ideas for a project you would like to pursue, you may approach a specific lecturer to propose and discuss further.
 
 ## CS Supervisors
 
