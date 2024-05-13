@@ -13,6 +13,7 @@ Here's the list of SPore projects on offer during the **2023 summer break**:
 
 - Supervisor: Dr. John See
 - Domain: Machine Learning, Artificial Intelligence
+- Skillsets: Python + ML Library like Tensorflow
 
 _Available for 1-2 students_
 
@@ -22,6 +23,7 @@ _Available for 1-2 students_
 
 - Supervisor: Dr. John See
 - Domain: Computer Vision, Machine Learning
+- Skillsets: Python + existing models from FoodSAM
 
 _Available for 1 student_
 
@@ -31,6 +33,7 @@ _Available for 1 student_
 
 - Supervisor: Dr. Ian Tan
 - Domain: Web Computing, Software Application Development
+- Skillsets: Python, selenium/scrapy library, RegEx with text processing
 
 _Available. 1-2 students_
 
@@ -40,6 +43,7 @@ _Available. 1-2 students_
 
 - Supervisor: Dr. Ian Tan
 - Domain: Sentiment Analysis, Natural Language Processing (NLP)
+- Skillsets: Python, most of the code provided except for final analysis
 
 _Available for 1 student_
 
@@ -49,6 +53,7 @@ _Available for 1 student_
 
 - Supervisor: Dr. John See
 - Domain: Web Application, Audio Data Processing
+- Skillsets: Python + Flask & web hoster, scalable data stores
 
 _Available for 2-3 students_ 
 
@@ -58,6 +63,7 @@ _Available for 2-3 students_
 
 - Supervisor: Dr. John See
 - Domain: Computer Vision, Deep Learning Models, Hardware-Software Interfacing
+- Skillsets: Python + DJI Tello library
 
 _Available for 1 student_ 
 
