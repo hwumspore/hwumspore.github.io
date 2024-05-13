@@ -34,19 +34,22 @@ Have a question? Before you email us, go [here](/faqs/) for a list of frequently
 
 ## Project List
 
-- **Autonomous Drone Piloting** (Supervisor: Dr. John See): 2 students
-- **Virtual Fashion Assistant** (Supervisor: Dr. Chit Su Mon): 2-3 students
-- **Palm Kernel Multi-Class Classifier** (Supervisor: Dr. Ian Tan): 2 students
-- **Animating 3D Objects with Blender and Python** (Supervisor: Dr. John See): 2 students
-- **Underwater Image Enhancement** (Supervisor: Dr John See): 1 student
+- **Machine Learning Malaysian Food** (Supervisor: Dr. John See): 1-2 students
+- **Economy Rice AI Auntie** (Supervisor: Dr. John See): 1 student
+- **Web Scraping Researchers' Publications** (Supervisor: Dr. Ian Tan): 1-2 students
+- **Impact of Token-Pairing for Sentiment Analysis** (Supervisor: Dr. Ian Tan): 1 student
+- **Putrajaya Sound Map Project** (Supervisor: Dr. John See): 2-3 students
+- **Drone Object Counting** (Supervisor: Dr John See): 1 student
 
 Click [here](/projects/) for more details of each project.
 
 If you have other ideas for a project you would like to pursue, you may approach a specific lecturer to propose and discuss further.
 
-## CS Supervisors
+## CS Supervisors (full list)
 
 _Please add the institution domain to the email user names in parenthesis_
+- Dr. Thomas Basuki (t.basuki)
+- Dr. Timothy Yap (timothy.yap)
 - Dr. Rosalind Deena Kumari (r.kumari)
 - Dr. Chit Su Mon (c.mon)
 - Dr. Abdullah (a.almasri)
