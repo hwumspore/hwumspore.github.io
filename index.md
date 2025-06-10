@@ -34,12 +34,12 @@ Have a question? Before you email us, go [here](/faqs/) for a list of frequently
 
 ## Project List
 
-- **Machine Learning Malaysian Food** (Supervisor: Dr. John See): 1-2 students
-- **Economy Rice AI Auntie** (Supervisor: Dr. John See): 1 student
-- **Web Scraping Researchers' Publications** (Supervisor: Dr. Ian Tan): 1-2 students
-- **Impact of Token-Pairing for Sentiment Analysis** (Supervisor: Dr. Ian Tan): 1 student
-- **Putrajaya Sound Map Project** (Supervisor: Dr. John See): 2-3 students
-- **Drone Object Counting** (Supervisor: Dr John See): 1 student
+- **Building models for Malaysian Food Image classification** (Supervisor: Dr. John See): 1-2 students
+- **UML Class Diagram to Java and vice versa** (Supervisor: Dr. Thomas Basuki): 1-2 students
+- **Voice Synthesiser** (Supervisor: Dr. Chin Zi Hau): 1 student
+- **Automatic on-Browser Video Stream Manipulation** (Supervisor: Dr. John See): 1-2 students
+- **Network Topology Simulator** (Supervisor: Dr. Ian Tan): 1 student
+- **MyRA Entry Portal** (Supervisor: Dr Chin Zi Hau): 1 student
 
 Click [here](/projects/) for more details of each project.
 
@@ -52,6 +52,8 @@ _Please add the institution domain to the email user names in parenthesis_
 - Dr. Timothy Yap (timothy.yap)
 - Dr. Rosalind Deena Kumari (r.kumari)
 - Dr. Chit Su Mon (c.mon)
-- Dr. Abdullah (a.almasri)
+- Dr. Abdullah Almasri (a.almasri)
+- Dr. Chin Zi Hau (z.chin)
 - Dr. Ian Tan (i.tan)
 - Dr. John See (j.see)
+- Mr. Yap Chee Een (c.yap)
