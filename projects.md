@@ -4,75 +4,75 @@ feature_text: |
   ## HWUM SPOre
   Projects
 feature_image: "/assets/imgs/forest-fly.jpg"
-excerpt: "  This page contains a list of past SPOre projects and current project on offer in the current summer break 2024."
+excerpt: "  This page contains a list of past SPOre projects and current project on offer in the current summer break 2025."
 ---
 
-Here's the list of SPore projects on offer during the **2023 summer break**:
+Here's the list of SPore projects on offer during the **2025 summer break**:
 
-#### Machine Learning Malaysian Food
+#### Building models for Malaysian Food image classification
 
 - Supervisor: Dr. John See
-- Domain: Machine Learning, Artificial Intelligence
-- Skillsets: Python + ML Library like Tensorflow
+- Domain: Machine Learning
+- Skillsets: Python + ML Library like Tensorflow/PyTorch
 
 _Available for 1-2 students_
 
-> Build machine learning models to classify 50 different Malaysian food. Data is available, but needs updating.
+> To research and construct machine learning models to classify at least 50 different Malaysian food. Data is available, but this project can update more images and/or more categories. The main aim is to build some ML models for further deployment or demo purposes.
 
-#### Economy Rice AI Auntie
+#### 
+
+- Supervisor: Dr. Thomas Basuki
+- Domain: Software Engineering
+- Skillsets: Java
+
+_Available for 1-2 students_
+
+> To research and build a software that can extract class structure of a Java program and stores it as UML class diagram and vice versa. We will explore UML tools such as UMLet and Java compiler generator such as JavaCC to build the software.
+
+#### Voice Synthesiser
+
+- Supervisor: Dr. Chin Zi Hau
+- Domain: Artificial Intelligence
+- Skillsets: Python
+
+_Assigned to 1 student_
+
+> This project involves researching and experimenting with GPT-SoVITS, a text-to-speech software for voice training and cloning. Student will train multiple voice models, varying parameters such as dataset length, to analyse and compare the resulting voice quality and characteristics.
+
+#### Automatic on-Browser Video Stream Manipulation
 
 - Supervisor: Dr. John See
-- Domain: Computer Vision, Machine Learning
-- Skillsets: Python + existing models from FoodSAM
+- Domain: Full stack development (frontend and backend)
+- Skillsets: Python
 
-_Available for 1 student_
+_Available for 1-2 students_ 
 
-> Build an automatic economy (mixed) rice price tagger based on snapped photo of plate. Food items on plate should be segmented into their respective types, consider also the food portions.
+> This project uses WebRTC to transmit real-time audio/video streams over the network via Streamlit library. As a result, we can run video demos (from the webcam) directly on browser, doing cool things like style transfer, avatar augmentation, etc.
 
-#### Web Scraping Researchers' Publications
+
+#### MyRA Entry Portal
+
+- Supervisor: Dr. Chin Zi Hau
+- Domain: Full stack development (frontend and backend)
+- Skillsets: -
+
+_Assigned to 1 student_ 
+
+> The current way of compiling researchers' data is by manually compiling spreadsheets submitted by every individual staff.This project is to create a data entry portal and automate certain processes such as researchers' publications and more.
+
+#### Network Topology Simulator
 
 - Supervisor: Dr. Ian Tan
-- Domain: Web Computing, Software Application Development
-- Skillsets: Python, selenium/scrapy library, RegEx with text processing
+- Domain: Networking
+- Skillsets: -
 
-_Available. 1-2 students_
+_1 student assigned_
 
-> Automatiucally retrieve list of researchers' publications and/or check and correct the format.
-
-#### Impact of Token-Pairing for Sentiment Analysis
-
-- Supervisor: Dr. Ian Tan
-- Domain: Sentiment Analysis, Natural Language Processing (NLP)
-- Skillsets: Python, most of the code provided except for final analysis
-
-_Available for 1 student_
-
-> Impact on sentiment analysis by identifying common word-pairing correlation with sentiment.
-
-#### Putrajaya Sound Map Project
-
-- Supervisor: Dr. John See
-- Domain: Web Application, Audio Data Processing
-- Skillsets: Python + Flask & web hoster, scalable data stores
-
-_Available for 2-3 students_ 
-
-> Sounds from Putrajaya's diverse ecosystem from natural to man-made can be archived thru time. Build a website that allows pubic collection of geotagged sound data.
-
-#### Drone Object Counting
-
-- Supervisor: Dr. John See
-- Domain: Computer Vision, Deep Learning Models, Hardware-Software Interfacing
-- Skillsets: Python + DJI Tello library
-
-_Available for 1 student_ 
-
-> Demonstrate how a drone can be used to count specific objects in a room. Choice of application up for discussion.
-
+> Building a network topology simulator for demo purposes.
 
 --
 
-Here's the list of SPOre projects from past editions:
+Here's the list of SPOre projects from past years:
 
 |  **Project Title** | **Students** | **Supervisor** |
 |-------|------|--------|
