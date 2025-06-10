@@ -19,7 +19,7 @@ _Available for 1-2 students_
 
 > To research and construct machine learning models to classify at least 50 different Malaysian food. Data is available, but this project can update more images and/or more categories. The main aim is to build some ML models for further deployment or demo purposes.
 
-#### 
+#### UML Class Diagram to Java and vice versa
 
 - Supervisor: Dr. Thomas Basuki
 - Domain: Software Engineering
@@ -70,7 +70,7 @@ _1 student assigned_
 
 > Building a network topology simulator for demo purposes.
 
---
+---
 
 Here's the list of SPOre projects from past years:
 
